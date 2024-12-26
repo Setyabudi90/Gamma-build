@@ -1,0 +1,18 @@
+{
+    "headers": [
+      {
+        "source": "/assets/index-C_-KGcq1.js",  
+        "headers": [
+          {
+            "key": "Content-Security-Policy",
+            "value": "default-src 'self'; script-src 'self' https://gammac.vercel.app;"
+          },
+          {
+            "key": "Access-Control-Allow-Origin",
+            "value": "https://gammac.vercel.app"
+          }
+        ]
+      }
+    ]
+  }
+  
